@@ -1,0 +1,991 @@
+Departamento,Municipo,CodigoDANE,NumeroSolicitudes,NumeroPredios,NumeroTitulares
+Amazonas,El Encanto,91263,4,4,4
+Amazonas,La Pedrera,91407,2,2,1
+Amazonas,La Victoria,9143,3,3,3
+Amazonas,Leticia,91001,1,1,1
+Amazonas,Miriti - Paraná,9146,1,1,1
+Amazonas,Puerto Alegría,9153,2,2,2
+Amazonas,Puerto Santander,91669,7,4,5
+Antioquia,Abejorral,5002,52,43,33
+Antioquia,Abriaquí,5004,10,5,2
+Antioquia,Alejandría,5021,32,30,17
+Antioquia,Amagá,503,12,12,3
+Antioquia,Amalfi,5031,111,104,81
+Antioquia,Andes,5034,21,19,17
+Antioquia,Angelópolis,5036,8,8,8
+Antioquia,Angostura,5038,35,24,19
+Antioquia,Anorí,504,104,96,69
+Antioquia,Anza,5044,18,15,12
+Antioquia,Apartadó,5045,616,556,417
+Antioquia,Arboletes,5051,575,538,145
+Antioquia,Argelia,5055,396,297,185
+Antioquia,Armenia,5059,20,17,14
+Antioquia,Barbosa,5079,40,36,19
+Antioquia,Bello,5088,161,124,98
+Antioquia,Belmira,5086,8,8,6
+Antioquia,Betania,5091,49,49,26
+Antioquia,Betulia,5093,72,60,40
+Antioquia,Briceño,5107,85,70,36
+Antioquia,Buriticá,5113,22,13,17
+Antioquia,Cáceres,512,482,390,355
+Antioquia,Caicedo,5125,13,11,8
+Antioquia,Caldas,5129,15,12,10
+Antioquia,Campamento,5134,32,31,14
+Antioquia,Cañasgordas,5138,103,68,55
+Antioquia,Caracolí,5142,2,2,2
+Antioquia,Caramanta,5145,9,7,7
+Antioquia,Carepa,5147,220,204,139
+Antioquia,Carolina,515,1,1,1
+Antioquia,Caucasia,5154,262,257,206
+Antioquia,Chigorodó,5172,387,351,242
+Antioquia,Cisneros,519,2,2,2
+Antioquia,Ciudad Bolívar,5101,34,33,16
+Antioquia,Cocorná,5197,262,217,162
+Antioquia,Concepción,5206,12,12,10
+Antioquia,Concordia,5209,14,14,12
+Antioquia,Copacabana,5212,15,13,15
+Antioquia,Dabeiba,5234,574,460,304
+Antioquia,Don Matías,5237,6,6,4
+Antioquia,Ebéjico,524,4,3,1
+Antioquia,El Bagre,525,372,317,283
+Antioquia,El Carmen De Viboral,5148,142,115,59
+Antioquia,El Santuario,5697,6,6,5
+Antioquia,Entrerrios,5264,12,12,4
+Antioquia,Envigado,5266,3,3,3
+Antioquia,Fredonia,5282,8,6,1
+Antioquia,Frontino,5284,164,121,87
+Antioquia,Giraldo,5306,18,17,16
+Antioquia,Girardota,5308,42,35,17
+Antioquia,Gómez Plata,531,6,6,3
+Antioquia,Granada,5313,105,1037,572
+Antioquia,Guadalupe,5315,6,6,4
+Antioquia,Guarne,5318,36,24,17
+Antioquia,Guatapé,5321,15,7,7
+Antioquia,Heliconia,5347,64,45,33
+Antioquia,Itaguí,536,31,29,22
+Antioquia,Ituango,5361,251,223,145
+Antioquia,Jardín,5364,2,2,2
+Antioquia,Jericó,5368,5,5,4
+Antioquia,La Ceja,5376,6,6,4
+Antioquia,La Estrella,538,3,3,2
+Antioquia,La Pintada,539,5,5,0
+Antioquia,La Unión,54,41,20,21
+Antioquia,Liborina,5411,1,1,1
+Antioquia,Maceo,5425,81,72,60
+Antioquia,Marinilla,544,5,5,5
+Antioquia,Medellín,5001,813,717,601
+Antioquia,Montebello,5467,414,351,198
+Antioquia,Murindó,5475,6,6,5
+Antioquia,Mutatá,548,730,701,416
+Antioquia,Nariño,5483,181,144,107
+Antioquia,Nechí,5495,356,335,266
+Antioquia,Necoclí,549,566,496,316
+Antioquia,Olaya,5501,2,2,1
+Antioquia,Peñol,5541,16,15,10
+Antioquia,Peque,5543,38,36,18
+Antioquia,Pueblorrico,5576,11,11,8
+Antioquia,Puerto Berrío,5579,58,44,35
+Antioquia,Puerto Nare,5585,31,31,25
+Antioquia,Puerto Triunfo,5591,64,64,15
+Antioquia,Remedios,5604,222,220,134
+Antioquia,Retiro,5607,15,15,9
+Antioquia,Rionegro,5615,15,15,10
+Antioquia,Sabanalarga,5628,29,29,11
+Antioquia,Salgar,5642,89,83,65
+Antioquia,San Andrés,5647,54,31,37
+Antioquia,San Carlos,5649,1574,1436,893
+Antioquia,San Francisco,5652,141,118,86
+Antioquia,San Jerónimo,5656,14,14,8
+Antioquia,San José De La Montaña,5658,1,1,1
+Antioquia,San Juan De Urabá,5659,27,26,21
+Antioquia,San Luis,566,277,229,186
+Antioquia,San Pedro de Urabá,5665,356,320,174
+Antioquia,San Pedro,5664,4,4,2
+Antioquia,San Rafael,5667,207,149,125
+Antioquia,San Roque,567,211,179,125
+Antioquia,San Vicente,5674,15,14,11
+Antioquia,Santa Bárbara,5679,26,23,16
+Antioquia,Santa Rosa De Osos,5686,17,17,13
+Antioquia,Santafé De Antioquia,5042,27,25,12
+Antioquia,Santo Domingo,569,58,55,38
+Antioquia,Segovia,5736,90,88,59
+Antioquia,Sonsón,5756,535,372,243
+Antioquia,Sopetrán,5761,7,7,5
+Antioquia,Támesis,5789,64,62,25
+Antioquia,Tarazá,579,324,317,205
+Antioquia,Tarso,5792,9,3,6
+Antioquia,Titiribí,5809,2,2,2
+Antioquia,Toledo,5819,24,24,13
+Antioquia,Turbo,5837,2543,218,1664
+Antioquia,Uramita,5842,32,25,15
+Antioquia,Urrao,5847,196,177,119
+Antioquia,Valdivia,5854,102,85,80
+Antioquia,Valparaíso,5856,2,2,1
+Antioquia,Vegachí,5858,104,83,76
+Antioquia,Venecia,5861,7,1,4
+Antioquia,Vigía Del Fuerte,5873,29,29,20
+Antioquia,Yalí,5885,42,29,29
+Antioquia,Yarumal,5887,71,61,42
+Antioquia,Yolombó,589,119,97,79
+Antioquia,Yondó,5893,203,184,141
+Antioquia,Zaragoza,5895,180,166,120
+Arauca,Arauca,81001,65,54,46
+Arauca,Arauquita,81065,214,192,145
+Arauca,Cravo Norte,8122,50,48,27
+Arauca,Fortul,813,41,39,30
+Arauca,Puerto Rondón,81591,47,38,33
+Arauca,Saravena,81736,135,119,74
+Arauca,Tame,81794,281,264,164
+Atlántico,Baranoa,8078,7,7,3
+Atlántico,Barranquilla,8001,117,112,80
+Atlántico,Candelaria,8141,1,1,1
+Atlántico,Galapa,8296,4,4,4
+Atlántico,Juan De Acosta,8372,2,2,2
+Atlántico,Luruaco,8421,19,18,11
+Atlántico,Malambo,8433,5,5,5
+Atlántico,Manatí,8436,4,3,4
+Atlántico,Palmar De Varela,852,2,2,1
+Atlántico,Piojó,8549,70,56,67
+Atlántico,Polonuevo,8558,3,2,2
+Atlántico,Ponedera,856,132,84,19
+Atlántico,Puerto Colombia,8573,9,9,8
+Atlántico,Repelón,8606,44,40,34
+Atlántico,Sabanagrande,8634,4,4,4
+Atlántico,Sabanalarga,8638,10,5,3
+Atlántico,Santo Tomás,8685,1,1,1
+Atlántico,Soledad,8758,15,15,10
+Atlántico,Suan,877,2,2,2
+Atlántico,Tubará,8832,50,31,43
+Bogotá DC,Bogotá,11001,270,223,155
+Bolívar,Achí,13006,37,34,30
+Bolívar,Altos Del Rosario,1303,45,41,35
+Bolívar,Arenal,13042,19,18,16
+Bolívar,Arjona,13052,119,17,109
+Bolívar,Arroyohondo,13062,10,10,8
+Bolívar,Barranco De Loba,13074,46,45,34
+Bolívar,Calamar,1314,121,99,113
+Bolívar,Cantagallo,1316,105,88,88
+Bolívar,Cartagena,13001,60,53,42
+Bolívar,Cicuco,13188,1,1,1
+Bolívar,Clemencia,13222,25,25,22
+Bolívar,Córdoba,13212,264,232,223
+Bolívar,El Carmen De Bolívar,13244,2223,1688,1884
+Bolívar,El Guamo,13248,53,41,30
+Bolívar,El Peñón,13268,4,4,4
+Bolívar,Hatillo De Loba,133,12,5,12
+Bolívar,Magangué,1343,22,21,18
+Bolívar,Mahates,13433,36,34,30
+Bolívar,María La Baja,13442,377,308,284
+Bolívar,Mompós,13468,5,5,4
+Bolívar,Montecristo,13458,71,64,58
+Bolívar,Morales,13473,77,75,65
+Bolívar,Norosí,1349,22,22,20
+Bolívar,Pinillos,13549,15,9,12
+Bolívar,Regidor,1358,25,21,12
+Bolívar,Río Viejo,136,40,36,33
+Bolívar,San Cristóbal,1362,12,12,12
+Bolívar,San Estanislao,13647,45,39,40
+Bolívar,San Fernando,1365,1,1,1
+Bolívar,San Jacinto Del Cauca,13655,40,39,24
+Bolívar,San Jacinto,13654,1117,915,841
+Bolívar,San Juan Nepomuceno,13657,597,466,447
+Bolívar,San Martín De Loba,13667,76,73,66
+Bolívar,San Pablo,1367,211,190,150
+Bolívar,Santa Catalina,13673,15,12,9
+Bolívar,Santa Rosa Del Sur,13688,92,91,75
+Bolívar,Santa Rosa,13683,18,16,14
+Bolívar,Simití,13744,210,185,136
+Bolívar,Soplaviento,1376,3,3,3
+Bolívar,Talaigua Nuevo,1378,4,3,4
+Bolívar,Tiquisio,1381,81,71,52
+Bolívar,Turbaco,13836,71,58,33
+Bolívar,Turbaná,13838,39,29,20
+Bolívar,Villanueva,13873,105,75,90
+Bolívar,Zambrano,13894,303,253,243
+Boyacá,Almeida,15022,1,1,0
+Boyacá,Aquitania,15047,22,20,8
+Boyacá,Arcabuco,15051,1,1,1
+Boyacá,Berbeo,1509,4,4,2
+Boyacá,Boavita,15097,1,1,1
+Boyacá,Briceño,15106,2,2,2
+Boyacá,Buenavista,15109,1,1,1
+Boyacá,Caldas,15131,1,1,1
+Boyacá,Campohermoso,15135,3,3,3
+Boyacá,Chiquinquirá,15176,1,1,1
+Boyacá,Chiscas,1518,6,6,4
+Boyacá,Chita,15183,9,9,6
+Boyacá,Chivor,15236,17,17,2
+Boyacá,Covarachía,15218,1,1,0
+Boyacá,Cubará,15223,7,7,5
+Boyacá,El Cocuy,15244,3,3,1
+Boyacá,El Espino,15248,7,6,3
+Boyacá,Floresta,15276,1,1,0
+Boyacá,Guacamayas,15317,1,1,1
+Boyacá,Guateque,15322,6,4,3
+Boyacá,Guayatá,15325,1,1,1
+Boyacá,Guouicán,15332,7,7,2
+Boyacá,Jericó,15368,1,1,1
+Boyacá,Labranzagrande,15377,10,10,7
+Boyacá,Macanal,15425,1,1,1
+Boyacá,Maripí,15442,8,4,1
+Boyacá,Miraflores,15455,11,9,6
+Boyacá,Mongua,15464,3,3,3
+Boyacá,Muzo,1548,15,11,9
+Boyacá,Otanche,15507,34,20,21
+Boyacá,Páez,15514,35,29,23
+Boyacá,Paipa,15516,1,1,0
+Boyacá,Pajarito,15518,24,6,14
+Boyacá,Pauna,15531,13,7,9
+Boyacá,Paya,15533,13,12,7
+Boyacá,Pisba,1555,2,2,2
+Boyacá,Puerto Boyacá,15572,56,53,39
+Boyacá,Quípama,1558,25,21,18
+Boyacá,Ramiriquí,15599,6,6,1
+Boyacá,Samacá,15646,1,1,1
+Boyacá,San Eduardo,1566,2,2,0
+Boyacá,San Luis De Gaceno,15667,4,4,3
+Boyacá,San Mateo,15673,6,6,2
+Boyacá,San Pablo De Borbur,15681,10,9,8
+Boyacá,Santa María,1569,1,1,1
+Boyacá,Santa Sofía,15696,1,1,1
+Boyacá,Soatá,15753,1,1,1
+Boyacá,Socotá,15755,84,21,16
+Boyacá,Sogamoso,15759,3,3,2
+Boyacá,Susacón,15774,4,4,3
+Boyacá,Tipacoque,1581,1,1,1
+Boyacá,Tunja,15001,2,2,1
+Boyacá,Tununguá,15832,4,4,1
+Boyacá,Turmequé,15835,1,1,1
+Boyacá,Umbita,15842,3,3,0
+Boyacá,Villa De Leyva,15407,2,2,2
+Boyacá,Viracachá,15879,1,1,1
+Boyacá,Zetaquira,15897,1,1,1
+Caldas,Aguadas,17013,40,35,26
+Caldas,Anserma,17042,68,57,43
+Caldas,Aranzazu,1705,5,5,2
+Caldas,Belalcázar,17088,10,9,6
+Caldas,Chinchiná,17174,9,9,4
+Caldas,Filadelfia,17272,13,13,9
+Caldas,La Dorada,1738,54,42,27
+Caldas,La Merced,17388,18,15,6
+Caldas,Manizales,17001,26,25,15
+Caldas,Manzanares,17433,32,31,18
+Caldas,Marmato,17442,3,3,2
+Caldas,Marquetalia,17444,15,14,9
+Caldas,Marulanda,17446,33,29,22
+Caldas,Neira,17486,8,8,7
+Caldas,Norcasia,17495,44,32,31
+Caldas,Pácora,17513,37,36,18
+Caldas,Palestina,17524,3,3,2
+Caldas,Pensilvania,17541,354,342,241
+Caldas,Riosucio,17614,41,40,31
+Caldas,Risaralda,17616,12,12,10
+Caldas,Salamina,17653,97,79,47
+Caldas,Samaná,17662,843,706,533
+Caldas,Supía,17777,12,12,11
+Caldas,Victoria,17867,40,38,28
+Caldas,Villamaría,17873,19,17,12
+Caldas,Viterbo,17877,5,5,3
+Caquetá,Albania,18029,18,17,15
+Caquetá,Belén De Los Andaquies,18094,60,60,45
+Caquetá,Cartagena Del Chairá,1815,299,282,223
+Caquetá,Curillo,18205,107,103,72
+Caquetá,El Doncello,18247,74,68,40
+Caquetá,El Paujil,18256,60,36,52
+Caquetá,Florencia,18001,357,313,221
+Caquetá,La Montañita,1841,139,130,96
+Caquetá,Milán,1846,94,87,54
+Caquetá,Morelia,18479,38,38,17
+Caquetá,Puerto Rico,18592,292,270,199
+Caquetá,San José Del Fragua,1861,78,73,59
+Caquetá,San Vicente Del Caguán,18753,529,442,349
+Caquetá,Solano,18756,117,111,91
+Caquetá,Solita,18785,66,64,46
+Caquetá,Valparaíso,1886,112,95,70
+Casanare,Aguazul,8501,82,56,54
+Casanare,Chameza,85015,8,7,6
+Casanare,Hato Corozal,85125,59,47,42
+Casanare,La Salina,85136,2,2,2
+Casanare,Maní,85139,81,53,54
+Casanare,Monterrey,85162,84,54,43
+Casanare,Nunchía,85225,44,35,28
+Casanare,Orocué,8523,90,74,70
+Casanare,Paz De Ariporo,8525,42,37,33
+Casanare,Pore,85263,36,28,28
+Casanare,Recetor,85279,5,4,3
+Casanare,Sabanalarga,853,34,16,10
+Casanare,Sácama,85315,7,7,6
+Casanare,San Luis De Palenque,85325,55,26,35
+Casanare,Támara,854,19,14,14
+Casanare,Tauramena,8541,113,94,66
+Casanare,Trinidad,8543,65,55,37
+Casanare,Villanueva,8544,33,32,19
+Casanare,Yopal,85001,66,52,47
+Cauca,Almaguer,19022,36,34,21
+Cauca,Argelia,1905,185,154,122
+Cauca,Balboa,19075,100,95,77
+Cauca,Bolívar,191,229,218,125
+Cauca,Buenos Aires,1911,28,27,21
+Cauca,Cajibío,1913,251,239,185
+Cauca,Caldono,19137,27,25,21
+Cauca,Caloto,19142,28,24,19
+Cauca,Corinto,19212,50,48,34
+Cauca,El Tambo,19256,509,470,354
+Cauca,Florencia,1929,4,4,3
+Cauca,Guapí,19318,90,79,40
+Cauca,Inzá,19355,34,30,29
+Cauca,Jambaló,19364,4,4,4
+Cauca,La Sierra,19392,38,35,25
+Cauca,La Vega,19397,186,174,117
+Cauca,López,19418,81,58,51
+Cauca,Mercaderes,1945,48,44,31
+Cauca,Miranda,19455,41,41,33
+Cauca,Morales,19473,45,44,36
+Cauca,Padilla,19513,3,3,3
+Cauca,Paez,19517,65,61,39
+Cauca,Patía,19532,136,131,103
+Cauca,Piamonte,19533,134,131,104
+Cauca,Piendamó,19548,22,21,17
+Cauca,Popayán,19001,61,41,29
+Cauca,Puerto Tejada,19573,9,8,6
+Cauca,Puracé,19585,44,44,26
+Cauca,Rosas,19622,33,31,21
+Cauca,San Sebastián,19693,24,22,15
+Cauca,Santa Rosa,19701,105,105,77
+Cauca,Santander De Quilichao,19698,155,142,127
+Cauca,Silvia,19743,13,13,8
+Cauca,Sotará,1976,14,14,11
+Cauca,Suárez,1978,84,75,70
+Cauca,Sucre,19785,19,19,15
+Cauca,Timbío,19807,109,80,81
+Cauca,Timbiquí,19809,34,32,26
+Cauca,Toribio,19821,26,25,20
+Cauca,Totoró,19824,11,11,11
+Cauca,Villa Rica,19845,4,4,4
+Cesar,Aguachica,20011,208,192,134
+Cesar,Agustín Codazzi,20013,607,427,413
+Cesar,Astrea,20032,59,53,45
+Cesar,Becerril,20045,407,275,297
+Cesar,Bosconia,2006,63,57,52
+Cesar,Chimichagua,20175,171,149,127
+Cesar,Chiriguaná,20178,213,157,173
+Cesar,Curumaní,20228,319,266,231
+Cesar,El Copey,20238,582,501,419
+Cesar,El Paso,2025,76,74,55
+Cesar,Gamarra,20295,31,28,25
+Cesar,González,2031,1,1,1
+Cesar,La Gloria,20383,418,335,372
+Cesar,La Jagua De Ibirico,204,474,369,369
+Cesar,La Paz,20621,217,174,170
+Cesar,Manaure,20443,49,41,41
+Cesar,Pailitas,20517,367,315,285
+Cesar,Pelaya,2055,360,280,262
+Cesar,Pueblo Bello,2057,193,172,131
+Cesar,Río De Oro,20614,53,35,42
+Cesar,San Alberto,2071,422,351,253
+Cesar,San Diego,2075,285,178,231
+Cesar,San Martín,2077,178,158,119
+Cesar,Tamalameque,20787,156,132,88
+Cesar,Valledupar,20001,1153,917,797
+Chocó,Acandí,27006,126,107,79
+Chocó,Alto Baudó,27025,12,11,10
+Chocó,Atrato,2705,6,6,4
+Chocó,Bagadó,27073,85,81,61
+Chocó,Bahía Solano,27075,35,35,11
+Chocó,Bajo Baudó,27077,13,12,9
+Chocó,Bojayá,27099,34,34,24
+Chocó,Carmen del Darién,2715,71,69,52
+Chocó,Cértegui,2716,5,5,3
+Chocó,Condoto,27205,14,13,11
+Chocó,El Cantón Del San Pablo,27135,4,3,3
+Chocó,El Carmen De Atrato,27245,133,114,103
+Chocó,El Litoral Del San Juan,2725,18,18,12
+Chocó,Istmina,27361,28,27,14
+Chocó,Juradó,27372,50,19,18
+Chocó,Lloró,27413,14,13,9
+Chocó,Medio Atrato,27425,21,14,8
+Chocó,Medio Baudó,2743,13,12,9
+Chocó,Medio San Juan,2745,7,7,3
+Chocó,Nóvita,27491,15,15,6
+Chocó,Nuquí,27495,11,11,7
+Chocó,Quibdó,27001,92,88,36
+Chocó,Río Iro,2758,64,64,11
+Chocó,Río Quito,276,3,2,3
+Chocó,Riosucio,27615,657,551,460
+Chocó,San José Del Palmar,2766,140,131,96
+Chocó,Sipí,27745,16,15,12
+Chocó,Tadó,27787,202,191,175
+Chocó,Unguía,278,187,153,117
+Chocó,Unión Panamericana,2781,8,8,3
+Córdoba,Ayapel,23068,92,87,77
+Córdoba,Buenavista,23079,20,20,17
+Córdoba,Canalete,2309,47,39,44
+Córdoba,Cereté,23162,3,2,2
+Córdoba,Chimá,23168,5,5,4
+Córdoba,Chinú,23182,13,5,12
+Córdoba,Ciénaga De Oro,23189,6,5,4
+Córdoba,Cotorra,233,3,3,3
+Córdoba,La Apartada,2335,16,16,12
+Córdoba,Lorica,23417,13,13,8
+Córdoba,Los Córdobas,23419,24,20,19
+Córdoba,Momil,23464,1,1,1
+Córdoba,Montelíbano,23466,192,157,127
+Córdoba,Montería,23001,1108,986,836
+Córdoba,Moñitos,235,14,14,11
+Córdoba,Planeta Rica,23555,38,35,23
+Córdoba,Pueblo Nuevo,2357,259,233,181
+Córdoba,Puerto Escondido,23574,13,13,5
+Córdoba,Puerto Libertador,2358,159,153,109
+Córdoba,Purísima,23586,1,1,1
+Córdoba,Sahagún,2366,5,5,2
+Córdoba,San Andrés Sotavento,2367,4,4,3
+Córdoba,San Antero,23672,2,2,1
+Córdoba,San Bernardo Del Viento,23675,8,8,6
+Córdoba,San Carlos,23678,8,8,7
+Córdoba,San Pelayo,23686,4,4,4
+Córdoba,Tierralta,23807,661,623,501
+Córdoba,Tuchín,23815,2,1,1
+Córdoba,Ure,23682,46,43,40
+Córdoba,Valencia,23855,797,723,650
+Cundinamarca,Agua De Dios,25001,3,3,2
+Cundinamarca,Albán,25019,8,8,5
+Cundinamarca,Anapoima,25035,5,5,5
+Cundinamarca,Anolaima,2504,8,8,6
+Cundinamarca,Apulo,25599,8,7,7
+Cundinamarca,Arbeláez,25053,53,35,22
+Cundinamarca,Beltrán,25086,10,7,5
+Cundinamarca,Bituima,25095,10,9,6
+Cundinamarca,Cabrera,2512,19,19,16
+Cundinamarca,Cachipay,25123,1,1,1
+Cundinamarca,Cajicá,25126,4,2,2
+Cundinamarca,Caparrapí,25148,73,70,59
+Cundinamarca,Caqueza,25151,8,8,4
+Cundinamarca,Carmen De Carupa,25154,1,1,0
+Cundinamarca,Chaguaní,25168,92,36,21
+Cundinamarca,Chía,25175,13,12,4
+Cundinamarca,Chipaque,25178,9,9,2
+Cundinamarca,Choachí,25181,6,2,1
+Cundinamarca,Chocontá,25183,1,1,1
+Cundinamarca,Cota,25214,3,3,2
+Cundinamarca,El Colegio,25245,9,9,7
+Cundinamarca,El Peñón,25258,57,31,32
+Cundinamarca,El Rosal,2526,1,1,1
+Cundinamarca,Facatativá,25269,2,2,1
+Cundinamarca,Fomeque,25279,9,9,5
+Cundinamarca,Fosca,25281,8,8,0
+Cundinamarca,Funza,25286,3,3,3
+Cundinamarca,Fusagasugá,2529,33,31,24
+Cundinamarca,Gachalá,25293,22,21,12
+Cundinamarca,Gachetá,25297,1,1,1
+Cundinamarca,Gama,25299,3,3,1
+Cundinamarca,Girardot,25307,6,6,3
+Cundinamarca,Granada,25312,9,9,3
+Cundinamarca,Guachetá,25317,1,1,1
+Cundinamarca,Guaduas,2532,22,16,14
+Cundinamarca,Guasca,25322,5,3,2
+Cundinamarca,Guataquí,25324,12,2,11
+Cundinamarca,Guayabal De Siquima,25328,8,8,6
+Cundinamarca,Guayabetal,25335,28,23,14
+Cundinamarca,Gutiérrez,25339,11,11,4
+Cundinamarca,Jerusalén,25368,7,5,4
+Cundinamarca,Junín,25372,5,5,4
+Cundinamarca,La Calera,25377,3,3,2
+Cundinamarca,La Mesa,25386,5,3,5
+Cundinamarca,La Palma,25394,828,502,329
+Cundinamarca,La Peña,25398,21,17,13
+Cundinamarca,La Vega,25402,4,4,2
+Cundinamarca,Manta,25436,5,5,1
+Cundinamarca,Medina,25438,147,125,67
+Cundinamarca,Mosquera,25473,1,1,1
+Cundinamarca,Nariño,25483,3,2,2
+Cundinamarca,Nilo,25488,4,4,3
+Cundinamarca,Nimaima,25489,6,6,4
+Cundinamarca,Nocaima,25491,2,1,2
+Cundinamarca,Pacho,25513,92,43,21
+Cundinamarca,Paime,25518,14,13,9
+Cundinamarca,Pandi,25524,14,13,10
+Cundinamarca,Paratebueno,2553,42,30,21
+Cundinamarca,Pasca,25535,15,15,9
+Cundinamarca,Puerto Salgar,25572,28,21,16
+Cundinamarca,Pulí,2558,34,32,23
+Cundinamarca,Quebradanegra,25592,6,6,5
+Cundinamarca,Quetame,25594,7,7,5
+Cundinamarca,Quipile,25596,55,49,27
+Cundinamarca,Ricaurte,25612,3,3,2
+Cundinamarca,San Antonio Del Tequendama,25645,2,2,2
+Cundinamarca,San Bernardo,25649,16,16,9
+Cundinamarca,San Cayetano,25653,9,3,9
+Cundinamarca,San Francisco,25658,7,5,1
+Cundinamarca,San Juan De Río Seco,25662,47,40,33
+Cundinamarca,Sasaima,25718,18,14,12
+Cundinamarca,Sesquilé,25736,4,4,2
+Cundinamarca,Sibaté,2574,3,3,3
+Cundinamarca,Silvania,25743,70,64,41
+Cundinamarca,Simijaca,25745,2,2,2
+Cundinamarca,Soacha,25754,31,28,23
+Cundinamarca,Supatá,25777,1,1,1
+Cundinamarca,Tena,25797,4,4,3
+Cundinamarca,Tenjo,25799,2,2,2
+Cundinamarca,Tibacuy,25805,23,22,16
+Cundinamarca,Tocaima,25815,9,8,6
+Cundinamarca,Tocancipá,25817,1,1,1
+Cundinamarca,Topaipí,25823,49,45,31
+Cundinamarca,Ubalá,25839,27,21,10
+Cundinamarca,Ubaque,25841,6,6,3
+Cundinamarca,Une,25845,2,2,0
+Cundinamarca,Uutica,25851,6,6,5
+Cundinamarca,Venecia,25506,42,30,24
+Cundinamarca,Vergara,25862,15,11,12
+Cundinamarca,Vianí,25867,6,6,3
+Cundinamarca,Villa De San Diego De Ubaté,25843,1,1,1
+Cundinamarca,Villagómez,25871,8,8,4
+Cundinamarca,Villapinzón,25873,5,5,3
+Cundinamarca,Villeta,25875,5,5,5
+Cundinamarca,Viotá,25878,93,83,69
+Cundinamarca,Yacopí,25885,253,213,158
+Cundinamarca,Zipaquirá,25899,8,4,3
+Guainía,Barranco Minas,94343,29,27,22
+Guainía,Inírida,94001,3,3,3
+Guainía,Mapiripana,94663,7,7,4
+Guaviare,Calamar,95015,152,145,115
+Guaviare,El Retorno,95025,157,150,122
+Guaviare,Miraflores,952,584,564,399
+Guaviare,San José Del Guaviare,95001,579,557,435
+Huila,Acevedo,41006,40,37,24
+Huila,Agrado,41013,2,2,1
+Huila,Aipe,41016,11,11,8
+Huila,Algeciras,4102,116,101,76
+Huila,Altamira,41026,3,3,2
+Huila,Baraya,41078,110,84,76
+Huila,Campoalegre,41132,25,25,18
+Huila,Colombia,41206,76,73,56
+Huila,Elías,41244,1,1,1
+Huila,Garzón,41298,59,36,39
+Huila,Gigante,41306,43,34,18
+Huila,Guadalupe,41319,20,20,14
+Huila,Hobo,41349,6,5,4
+Huila,Iquira,41357,18,15,13
+Huila,Isnos,41359,36,29,22
+Huila,La Argentina,41378,10,9,7
+Huila,La Plata,41396,41,39,26
+Huila,Nátaga,41483,19,13,15
+Huila,Neiva,41001,91,87,61
+Huila,Oporapa,41503,9,8,7
+Huila,Paicol,41518,1,1,1
+Huila,Palermo,41524,12,12,9
+Huila,Palestina,4153,9,4,6
+Huila,Pital,41548,2,2,2
+Huila,Pitalito,41551,35,35,21
+Huila,Rivera,41615,8,7,7
+Huila,Saladoblanco,4166,16,10,9
+Huila,San Agustín,41668,22,19,15
+Huila,Santa María,41676,16,13,15
+Huila,Suaza,4177,15,10,10
+Huila,Tarqui,41791,1,1,1
+Huila,Tello,41799,69,65,41
+Huila,Teruel,41801,6,4,3
+Huila,Tesalia,41797,5,5,4
+Huila,Timaná,41807,1,1,1
+Huila,Villavieja,41872,11,10,5
+La Guajira,Albania,44035,7,7,6
+La Guajira,Barrancas,44078,69,68,65
+La Guajira,Dibulla,4409,188,152,159
+La Guajira,Distracción,44098,54,49,43
+La Guajira,El Molino,4411,53,43,47
+La Guajira,Fonseca,44279,27,26,24
+La Guajira,Hatonuevo,44378,3,3,2
+La Guajira,La Jagua Del Pilar,4442,8,4,5
+La Guajira,Maicao,4443,55,54,44
+La Guajira,Manaure,4456,1,1,1
+La Guajira,Riohacha,44001,190,165,140
+La Guajira,San Juan Del Cesar,4465,49,49,40
+La Guajira,Uribia,44847,2,2,2
+La Guajira,Urumita,44855,17,16,14
+La Guajira,Villanueva,44874,59,51,41
+Magdalena,Algarrobo,4703,30,27,21
+Magdalena,Aracataca,47053,479,431,400
+Magdalena,Ariguaní,47058,84,63,63
+Magdalena,Cerro San Antonio,47161,18,15,9
+Magdalena,Chibolo,4717,420,366,364
+Magdalena,Ciénaga,47189,855,672,679
+Magdalena,Concordia,47205,5,5,2
+Magdalena,El Banco,47245,30,29,27
+Magdalena,El Piñon,47258,167,162,139
+Magdalena,El Retén,47268,15,9,13
+Magdalena,Fundación,47288,376,283,318
+Magdalena,Guamal,47318,7,7,7
+Magdalena,Nueva Granada,4746,27,23,21
+Magdalena,Pedraza,47541,8,8,8
+Magdalena,Pijiño Del Carmen,47545,23,19,14
+Magdalena,Pivijay,47551,738,432,541
+Magdalena,Plato,47555,243,204,193
+Magdalena,Puebloviejo,4757,261,155,223
+Magdalena,Remolino,47605,744,713,555
+Magdalena,Sabanas de San Ángel,4766,441,380,344
+Magdalena,Salamina,47675,136,121,117
+Magdalena,San Sebastián De Buenavista,47692,7,7,5
+Magdalena,San Zenón,47703,6,6,4
+Magdalena,Santa Ana,47707,103,87,81
+Magdalena,Santa Bárbara De Pinto,4772,3,2,1
+Magdalena,Santa Marta,47001,452,383,339
+Magdalena,Sitionuevo,47745,524,363,310
+Magdalena,Tenerife,47798,146,132,115
+Magdalena,Zapayán,4796,33,15,12
+Magdalena,Zona Bananera,4798,368,105,324
+Meta,Acacías,50006,146,127,82
+Meta,Barranca De Upía,5011,25,14,16
+Meta,Cabuyaro,50124,48,19,36
+Meta,Castilla La Nueva,5015,9,7,8
+Meta,Cubarral,50223,48,44,38
+Meta,Cumaral,50226,26,16,18
+Meta,El Calvario,50245,25,24,14
+Meta,El Castillo,50251,366,244,234
+Meta,El Dorado,5027,226,131,138
+Meta,Fuente De Oro,50287,98,31,36
+Meta,Granada,50313,79,52,45
+Meta,Guamal,50318,16,10,12
+Meta,La Macarena,5035,355,344,253
+Meta,Lejanías,504,131,100,94
+Meta,Mapiripán,50325,1165,1065,794
+Meta,Mesetas,5033,426,390,291
+Meta,Puerto Concordia,5045,175,160,136
+Meta,Puerto Gaitán,50568,546,402,361
+Meta,Puerto Lleras,50577,331,256,189
+Meta,Puerto López,50573,226,130,147
+Meta,Puerto Rico,5059,557,506,424
+Meta,Restrepo,50606,18,15,14
+Meta,San Carlos De Guaroa,5068,21,20,19
+Meta,San Juan De Arama,50683,148,137,110
+Meta,San Juanito,50686,18,16,9
+Meta,San Martín,50689,176,136,108
+Meta,Uribe,5037,384,344,268
+Meta,Villavicencio,50001,195,170,96
+Meta,Vistahermosa,50711,757,699,550
+Nariño,Albán,52019,192,190,137
+Nariño,Aldana,52022,2,2,0
+Nariño,Ancuyá,52036,9,8,5
+Nariño,Arboleda,52051,2,2,0
+Nariño,Barbacoas,52079,188,173,123
+Nariño,Belén,52083,7,7,6
+Nariño,Buesaco,5211,73,68,49
+Nariño,Chachagüí,5224,5,5,5
+Nariño,Colón,52203,13,10,9
+Nariño,Consaca,52207,20,19,7
+Nariño,Córdoba,52215,3,3,2
+Nariño,Cuaspud,52224,2,2,2
+Nariño,Cumbal,52227,39,37,21
+Nariño,Cumbitara,52233,174,160,129
+Nariño,El Charco,5225,85,83,65
+Nariño,El Peñol,52254,14,14,8
+Nariño,El Rosario,52256,362,353,244
+Nariño,El Tablón De Gómez,52258,983,938,602
+Nariño,El Tambo,5226,19,19,11
+Nariño,Francisco Pizarro,5252,35,31,21
+Nariño,Funes,52287,3,3,3
+Nariño,Guachucal,52317,2,2,1
+Nariño,Guaitarilla,5232,4,3,2
+Nariño,Ipiales,52356,133,123,85
+Nariño,La Cruz,52378,21,18,12
+Nariño,La Florida,52381,11,10,8
+Nariño,La Llanada,52385,18,17,14
+Nariño,La Tola,5239,18,17,12
+Nariño,La Unión,52399,20,18,11
+Nariño,Leiva,52405,73,69,48
+Nariño,Linares,52411,30,25,23
+Nariño,Los Andes,52418,578,547,375
+Nariño,Magüi,52427,91,79,58
+Nariño,Mallama,52435,32,29,22
+Nariño,Mosquera,52473,40,27,21
+Nariño,Nariño,5248,1,1,1
+Nariño,Olaya Herrera,5249,62,59,43
+Nariño,Pasto,52001,448,373,246
+Nariño,Policarpa,5254,536,523,339
+Nariño,Potosí,5256,7,6,6
+Nariño,Puerres,52573,7,4,5
+Nariño,Pupiales,52585,1,1,1
+Nariño,Ricaurte,52612,93,81,47
+Nariño,Roberto Payán,52621,132,123,68
+Nariño,Samaniego,52678,80,75,62
+Nariño,San Bernardo,52685,6,5,4
+Nariño,San Lorenzo,52687,15,10,9
+Nariño,San Pablo,52693,44,43,27
+Nariño,San Pedro De Cartago,52694,6,6,2
+Nariño,Sandoná,52683,9,9,7
+Nariño,Santa Bárbara,52696,38,38,28
+Nariño,Santacruz,52699,60,53,43
+Nariño,Taminango,52786,14,14,6
+Nariño,Tangua,52788,199,166,119
+Nariño,Tumaco,52835,1179,1077,750
+Nariño,Túquerres,52838,5,5,4
+Norte Santander,Abrego,54003,212,174,152
+Norte Santander,Arboledas,54051,51,50,28
+Norte Santander,Bochalema,54099,4,4,3
+Norte Santander,Bucarasica,54109,23,23,19
+Norte Santander,Cachirá,54128,49,44,35
+Norte Santander,Chinácota,54172,5,4,5
+Norte Santander,Chitagá,54174,55,50,22
+Norte Santander,Convención,54206,100,91,74
+Norte Santander,Cúcuta,54001,552,493,306
+Norte Santander,Cucutilla,54223,9,9,5
+Norte Santander,Durania,54239,7,6,4
+Norte Santander,El Carmen,54245,127,120,95
+Norte Santander,El Tarra,5425,148,134,116
+Norte Santander,El Zulia,54261,211,164,103
+Norte Santander,Gramalote,54313,1,1,1
+Norte Santander,Hacarí,54344,55,49,39
+Norte Santander,Herrán,54347,2,2,1
+Norte Santander,La Esperanza,54385,119,100,67
+Norte Santander,La Playa,54398,19,19,17
+Norte Santander,Labateca,54377,5,5,4
+Norte Santander,Los Patios,54405,28,26,18
+Norte Santander,Lourdes,54418,4,2,3
+Norte Santander,Ocaña,54498,200,142,138
+Norte Santander,Pamplona,54518,6,6,2
+Norte Santander,Pamplonita,5452,3,3,2
+Norte Santander,Puerto Santander,54553,3,3,3
+Norte Santander,Ragonvalia,54599,14,12,7
+Norte Santander,Salazar,5466,15,13,7
+Norte Santander,San Calixto,5467,69,66,50
+Norte Santander,San Cayetano,54673,4,4,4
+Norte Santander,Santiago,5468,8,6,6
+Norte Santander,Sardinata,5472,254,235,178
+Norte Santander,Silos,54743,2,2,2
+Norte Santander,Teorama,548,82,73,59
+Norte Santander,Tibú,5481,1752,1518,1043
+Norte Santander,Toledo,5482,22,21,19
+Norte Santander,Villa Del Rosario,54874,42,39,31
+Putumayo,Colón,86219,6,5,5
+Putumayo,Mocoa,86001,93,86,77
+Putumayo,Orito,8632,465,425,371
+Putumayo,Puerto Asís,86568,458,432,364
+Putumayo,Puerto Caicedo,86569,361,336,269
+Putumayo,Puerto Guzmán,86571,730,682,559
+Putumayo,Puerto Leguízamo,86573,282,263,213
+Putumayo,San Francisco,86755,11,11,9
+Putumayo,San Miguel,86757,462,423,350
+Putumayo,Santiago,8676,18,18,11
+Putumayo,Sibundoy,86749,3,3,2
+Putumayo,Valle Del Guamuez,86865,1224,1111,893
+Putumayo,Villa Garzón,86885,419,382,286
+Quindío,Armenia,63001,31,30,19
+Quindío,Buenavista,63111,1,1,1
+Quindío,Calarcá,6313,20,20,16
+Quindío,Circasia,6319,4,4,4
+Quindío,Córdoba,63212,15,12,14
+Quindío,Filandia,63272,2,2,2
+Quindío,Génova,63302,23,23,17
+Quindío,La Tebaida,63401,6,6,4
+Quindío,Montenegro,6347,4,4,3
+Quindío,Pijao,63548,6,5,5
+Quindío,Quimbaya,63594,2,2,2
+Quindío,Salento,6369,5,5,5
+Risaralda,Apía,66045,36,34,26
+Risaralda,Balboa,66075,6,5,4
+Risaralda,Belén De Umbría,66088,34,34,26
+Risaralda,Dosquebradas,6617,12,11,10
+Risaralda,Guática,66318,67,58,41
+Risaralda,La Celia,66383,22,21,15
+Risaralda,La Virginia,664,3,3,2
+Risaralda,Marsella,6644,4,4,4
+Risaralda,Mistrató,66456,74,70,55
+Risaralda,Pereira,66001,47,43,36
+Risaralda,Pueblo Rico,66572,221,192,155
+Risaralda,Quinchía,66594,191,180,115
+Risaralda,Santa Rosa De Cabal,66682,3,3,1
+Risaralda,Santuario,66687,45,40,36
+San Andrés,San Andrés,88001,1,1,0
+Santander,Aguada,68013,2,2,1
+Santander,Albania,6802,8,7,4
+Santander,Aratoca,68051,1,1,1
+Santander,Barbosa,68077,8,8,3
+Santander,Barrancabermeja,68081,573,547,439
+Santander,Betulia,68092,81,78,64
+Santander,Bolívar,68101,62,60,46
+Santander,Bucaramanga,68001,56,46,22
+Santander,California,68132,3,3,3
+Santander,Capitanejo,68147,5,5,5
+Santander,Carcasí,68152,2,2,2
+Santander,Cepitá,6816,2,2,2
+Santander,Cerrito,68162,3,3,2
+Santander,Charalá,68167,3,3,3
+Santander,Charta,68169,10,8,8
+Santander,Chima,68176,5,5,3
+Santander,Chipatá,68179,1,1,1
+Santander,Cimitarra,6819,269,248,195
+Santander,Concepción,68207,28,19,17
+Santander,Confines,68209,1,1,1
+Santander,Contratación,68211,4,4,1
+Santander,Coromoro,68217,2,2,2
+Santander,El Carmen De Chucurí,68235,273,256,207
+Santander,El Peñón,6825,33,33,27
+Santander,El Playón,68255,82,79,54
+Santander,Encino,68264,5,5,3
+Santander,Florián,68271,3,3,3
+Santander,Floridablanca,68276,13,13,6
+Santander,Galán,68296,4,4,1
+Santander,Gambita,68298,5,4,4
+Santander,Girón,68307,56,52,40
+Santander,Guaca,68318,8,8,7
+Santander,Guadalupe,6832,2,2,2
+Santander,Guavatá,68324,1,1,1
+Santander,Guouepsa,68327,1,1,0
+Santander,Hato,68344,10,10,6
+Santander,Jesús María,68368,4,4,3
+Santander,La Belleza,68377,9,9,6
+Santander,La Paz,68397,8,4,5
+Santander,Landázuri,68385,61,57,40
+Santander,Lebríja,68406,115,106,75
+Santander,Los Santos,68418,2,2,1
+Santander,Macaravita,68425,14,13,4
+Santander,Málaga,68432,2,2,1
+Santander,Matanza,68444,32,31,19
+Santander,Mogotes,68464,7,7,4
+Santander,Molagavita,68468,2,2,2
+Santander,Oiba,685,5,5,4
+Santander,Onzaga,68502,1,1,1
+Santander,Piedecuesta,68547,22,19,16
+Santander,Puente Nacional,68572,2,2,2
+Santander,Puerto Parra,68573,116,104,90
+Santander,Puerto Wilches,68575,170,149,120
+Santander,Rionegro,68615,246,231,184
+Santander,Sabana De Torres,68655,497,427,330
+Santander,San Andrés,68669,7,7,5
+Santander,San Benito,68673,1,1,1
+Santander,San Gil,68679,3,3,2
+Santander,San Joaquín,68682,2,2,1
+Santander,San José De Miranda,68684,1,1,1
+Santander,San Miguel,68686,20,16,8
+Santander,San Vicente De Chucurí,68689,264,252,213
+Santander,Santa Bárbara,68705,3,3,2
+Santander,Santa Helena Del Opón,6872,13,12,12
+Santander,Simacota,68745,226,212,159
+Santander,Suaita,6877,4,4,4
+Santander,Sucre,68773,20,19,13
+Santander,Suratá,6878,31,30,23
+Santander,Tona,6882,2,2,1
+Santander,Vélez,68861,23,20,13
+Santander,Villanueva,68872,2,2,1
+Santander,Zapatoca,68895,21,17,17
+Sucre,Buenavista,7011,23,22,23
+Sucre,Caimito,70124,4,3,4
+Sucre,Chalán,7023,148,83,120
+Sucre,Coloso,70204,241,124,194
+Sucre,Corozal,70215,13,12,11
+Sucre,Coveñas,70221,7,5,3
+Sucre,El Roble,70233,23,19,22
+Sucre,Galeras,70235,124,116,114
+Sucre,Guaranda,70265,37,33,30
+Sucre,La Unión,704,1,0,1
+Sucre,Los Palmitos,70418,168,144,135
+Sucre,Majagual,70429,104,89,90
+Sucre,Morroa,70473,454,292,340
+Sucre,Ovejas,70508,900,534,727
+Sucre,Palmito,70523,8,7,8
+Sucre,Sampués,7067,8,8,5
+Sucre,San Benito Abad,70678,82,51,66
+Sucre,San Juan De Betulia,70702,17,16,15
+Sucre,San Marcos,70708,24,20,16
+Sucre,San Onofre,70713,341,291,230
+Sucre,San Pedro,70717,109,100,95
+Sucre,Santiago De Tolú,7082,34,31,27
+Sucre,Sincé,70742,23,22,19
+Sucre,Sincelejo,70001,58,41,52
+Sucre,Sucre,70771,44,41,33
+Sucre,Tolú Viejo,70823,114,102,88
+Tolima,Alpujarra,73024,29,21,18
+Tolima,Alvarado,73026,71,59,49
+Tolima,Ambalema,7303,73,26,45
+Tolima,Anzoátegui,73043,115,91,86
+Tolima,Armero,73055,50,41,33
+Tolima,Ataco,73067,1282,890,691
+Tolima,Cajamarca,73124,69,37,53
+Tolima,Carmen De Apicalá,73148,2,2,2
+Tolima,Casabianca,73152,83,62,39
+Tolima,Chaparral,73168,368,275,251
+Tolima,Coello,732,1,1,1
+Tolima,Coyaima,73217,240,172,110
+Tolima,Cunday,73226,98,95,70
+Tolima,Dolores,73236,130,98,76
+Tolima,Espinal,73268,2,2,1
+Tolima,Falán,7327,28,24,23
+Tolima,Flandes,73275,3,3,3
+Tolima,Fresno,73283,68,56,53
+Tolima,Guamo,73319,10,9,7
+Tolima,Herveo,73347,34,31,27
+Tolima,Honda,73349,17,6,16
+Tolima,Ibagué,73001,271,209,204
+Tolima,Icononzo,73352,66,50,45
+Tolima,Lérida,73408,165,136,104
+Tolima,Líbano,73411,416,302,270
+Tolima,Mariquita,73443,39,35,33
+Tolima,Melgar,73449,10,9,6
+Tolima,Murillo,73461,31,23,18
+Tolima,Natagaima,73483,205,140,117
+Tolima,Ortega,73504,221,190,138
+Tolima,Palocabildo,7352,46,43,37
+Tolima,Piedras,73547,9,7,3
+Tolima,Planadas,73555,268,238,186
+Tolima,Prado,73563,99,86,59
+Tolima,Purificación,73585,29,28,19
+Tolima,Rioblanco,73616,672,532,402
+Tolima,Roncesvalles,73622,104,83,76
+Tolima,Rovira,73624,230,176,137
+Tolima,Saldaña,73671,14,13,8
+Tolima,San Antonio,73675,194,149,116
+Tolima,San Luis,73678,69,47,54
+Tolima,Santa Isabel,73686,35,30,25
+Tolima,Suárez,7377,19,19,2
+Tolima,Valle De San Juan,73854,172,72,107
+Tolima,Venadillo,73861,121,101,80
+Tolima,Villahermosa,7387,118,110,89
+Tolima,Villarrica,73873,120,97,67
+Valle Del Cauca,Alcalá,7602,5,5,5
+Valle Del Cauca,Andalucía,76036,9,8,5
+Valle Del Cauca,Ansermanuevo,76041,7,5,6
+Valle Del Cauca,Argelia,76054,4,4,4
+Valle Del Cauca,Bolívar,761,275,178,131
+Valle Del Cauca,Buenaventura,76109,439,409,272
+Valle Del Cauca,Bugalagrande,76113,302,170,160
+Valle Del Cauca,Caicedonia,76122,5,5,3
+Valle Del Cauca,Cali,76001,238,205,169
+Valle Del Cauca,Calima,76126,82,68,64
+Valle Del Cauca,Candelaria,7613,5,4,2
+Valle Del Cauca,Cartago,76147,4,4,2
+Valle Del Cauca,Dagua,76233,235,223,158
+Valle Del Cauca,El Aguila,76243,24,17,19
+Valle Del Cauca,El Cairo,76246,25,20,15
+Valle Del Cauca,El Cerrito,76248,22,20,18
+Valle Del Cauca,El Dovio,7625,127,96,54
+Valle Del Cauca,Florida,76275,55,51,36
+Valle Del Cauca,Ginebra,76306,36,26,18
+Valle Del Cauca,Guacarí,76318,15,13,11
+Valle Del Cauca,Guadalajara De Buga,76111,168,106,116
+Valle Del Cauca,Jamundí,76364,217,202,156
+Valle Del Cauca,La Cumbre,76377,38,35,19
+Valle Del Cauca,La Unión,764,18,16,8
+Valle Del Cauca,La Victoria,76403,3,2,3
+Valle Del Cauca,Obando,76497,14,8,7
+Valle Del Cauca,Palmira,7652,89,88,71
+Valle Del Cauca,Pradera,76563,77,64,58
+Valle Del Cauca,Restrepo,76606,13,3,6
+Valle Del Cauca,Riofrío,76616,131,114,73
+Valle Del Cauca,Roldanillo,76622,35,29,18
+Valle Del Cauca,San Pedro,7667,49,42,31
+Valle Del Cauca,Sevilla,76736,78,64,49
+Valle Del Cauca,Toro,76823,6,6,3
+Valle Del Cauca,Trujillo,76828,307,207,177
+Valle Del Cauca,Tuluá,76834,471,354,336
+Valle Del Cauca,Ulloa,76845,8,3,8
+Valle Del Cauca,Versalles,76863,10,9,8
+Valle Del Cauca,Vijes,76869,11,10,9
+Valle Del Cauca,Yotoco,7689,10,10,6
+Valle Del Cauca,Yumbo,76892,6,5,6
+Valle Del Cauca,Zarzal,76895,23,8,7
+Vaupés,Carurú,97161,32,32,27
+Vaupés,Mitú,97001,29,27,24
+Vaupés,Pacoa,97511,11,11,11
+Vaupés,Taraira,97666,1,1,1
+Vichada,Cumaribo,99773,692,668,495
+Vichada,La Primavera,99524,93,90,71
+Vichada,Puerto Carreño,99001,17,17,11
+Vichada,Santa Rosalía,99624,31,30,19
