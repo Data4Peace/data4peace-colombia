@@ -12,9 +12,13 @@
 #
 ###########################################################################################################################
 ## TABLE OF CONTENTS:
-#
-#
-#
+#  I. Setup
+#  II. Merge original data w/ the refined key
+#  III. Fix redunancies
+#  IV. Summary stats
+#  V. Export
+
+
 ## NOTES:
 #
 #
